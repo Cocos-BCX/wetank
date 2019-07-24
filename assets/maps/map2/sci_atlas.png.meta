@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "99539d46-9883-473f-bd0e-dec371adbeaa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "sci_atlas": {
+      "ver": "1.0.4",
+      "uuid": "63dc7797-3bc0-409a-8c78-6092589f705f",
+      "rawTextureUuid": "99539d46-9883-473f-bd0e-dec371adbeaa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
