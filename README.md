@@ -1,3 +1,1 @@
-# wetank
-
-http://boom.game
+# cocostank
