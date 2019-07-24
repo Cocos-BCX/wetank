@@ -1,14 +1,13 @@
 {
-  "ver": "2.3.1",
+  "ver": "2.2.0",
   "uuid": "83f56723-e1df-4486-90ea-bd5cfb32814b",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
-  "platformSettings": {},
   "subMetas": {
     "bian": {
-      "ver": "1.0.4",
+      "ver": "1.0.3",
       "uuid": "c03084cc-2ce2-4800-8fdb-48db8f758fb5",
       "rawTextureUuid": "83f56723-e1df-4486-90ea-bd5cfb32814b",
       "trimType": "auto",

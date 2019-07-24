@@ -1,14 +1,13 @@
 {
-  "ver": "2.3.1",
+  "ver": "2.2.0",
   "uuid": "812346d4-9cec-473f-b72d-26136ce76a28",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
-  "platformSettings": {},
   "subMetas": {
     "aimboom": {
-      "ver": "1.0.4",
+      "ver": "1.0.3",
       "uuid": "4527c6b2-2be6-49f7-bc4e-1b1241c627d1",
       "rawTextureUuid": "812346d4-9cec-473f-b72d-26136ce76a28",
       "trimType": "auto",
